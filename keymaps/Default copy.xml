@@ -1,0 +1,31 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="FindUsages" />
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt page_down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt page_up" />
+  </action>
+</keymap>
