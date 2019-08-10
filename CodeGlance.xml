@@ -1,6 +1,6 @@
 <application>
   <component name="CodeGlance">
-    <option name="clean" value="false" />
+    <option name="minLineCount" value="12" />
     <option name="width" value="140" />
   </component>
 </application>
