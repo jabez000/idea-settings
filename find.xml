@@ -17,9 +17,9 @@
     <mask>*.xml</mask>
     <mask>*test.properties</mask>
     <mask>*dev.properties</mask>
-    <mask>*.java</mask>
     <mask>*loc.properties</mask>
     <mask>*wi*.java</mask>
     <mask>*withdr*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
