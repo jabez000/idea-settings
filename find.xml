@@ -23,5 +23,6 @@
     <mask>*withdr*.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*-dev.properties</mask>
   </component>
 </application>
