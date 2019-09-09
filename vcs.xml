@@ -374,6 +374,10 @@
           <option name="url" value="http://203.60.2.120:9900/ldsports/ld-server" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/adobe-fonts/source-code-pro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/superman/seektop" />
