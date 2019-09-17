@@ -1,9 +1,7 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile>
-        <option name="tempFilePath" value="/tmp/startLearnGo-linux-amd64.so5261737869206780324" />
-      </Profile>
+      <Profile />
     </option>
   </component>
 </application>
